@@ -19,7 +19,7 @@ Ce dépôt contient de vraies captures d'orgs de démo Salesforce (données fict
 ## Fichiers
 
 - Nom : `<scénario>__<vue>__v<n>.<ext>`. On incrémente `v<n>` au lieu d'écraser une version déjà utilisée.
-- Vues : `workspace` (la page remplie), `builder` (la même page dans le builder), `dashboard`, `standard` (la page Salesforce standard), `before-after`, `clip-<action>` ; suffixe `-email` pour le recadrage email (haut de page), suffixe `-fr` pour une version française.
+- Vues : `workspace` (la page remplie), `builder` (la même page dans le builder), `dashboard`, `standard` (la page Salesforce standard), `before-after`, `code` (le code source réel du composant, pour les scénarios `claudecode-` et `release-`), `clip-<action>` ; suffixe `-email` pour le recadrage email (haut de page), suffixe `-fr` pour une version française.
 - Captures : PNG, 1280 px de large, sans barre de favoris, sans onglet ni notification personnelle, sans adresse e-mail ni nom réel visible.
 - Clips :
   - `clip-<action>.gif` : 5 à 8 secondes, une seule action (amorce, aperçu). Outlook n'affiche que la première image : elle doit se comprendre seule.

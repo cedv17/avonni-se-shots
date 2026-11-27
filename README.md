@@ -7,6 +7,8 @@ Captures de vraies orgs Salesforce de démonstration ; toutes les données sont 
 | `ad-program-command-center/` | Suit les programmes d'un industriel de l'aérospatiale : jalons, risques et coûts, puis l'espace d'un programme. | oui |
 | `agri-farm-operations/` | Montre la saison d'une coopérative agricole sur une carte des parcelles, puis la fiche d'une parcelle avec la note vocale de l'agronome. | oui |
 | `auto-dealer-network/` | Pilote un réseau de concessionnaires : stock, stock ancien et atelier, puis la fiche véhicule d'un client avec prise de rendez-vous. | oui |
+| `claudecode-editable-table/` | Un tableau de prévision modifiable en ligne, avec des totaux qui suivent la saisie, construit avec Claude Code en LWC natif. | non |
+| `claudecode-portal-column-search/` | Une table du portail client avec une case de recherche par colonne, qui filtre pendant la saisie, construite avec Claude Code. | non |
 | `construction-project-controls/` | Suit les chantiers d'une entreprise générale : coûts, planning, RFI et avenants, puis l'espace d'un projet. | oui |
 | `cpg-retail-execution/` | Montre la conformité des magasins d'une marque de boissons, puis l'espace de visite d'un magasin. | oui |
 | `edu-student-success/` | Repère les étudiants en difficulté par alertes précoces, puis l'espace du conseiller pour un étudiant. | oui |
@@ -29,6 +31,7 @@ Captures de vraies orgs Salesforce de démonstration ; toutes les données sont 
 | `ps-grants-management/` | Suit les candidatures d'un programme de subventions par étape, puis la revue d'une candidature avec un flow de demande de pièces. | oui |
 | `psa-project-staffing/` | Montre la charge des consultants et le staffing des projets, puis l'espace d'un projet. | oui |
 | `re-property-management/` | Suit l'occupation, les loyers et les baux d'un parc immobilier, puis l'espace d'un logement avec sa visite virtuelle. | oui |
+| `release-winter27-lwc-external/` | Une page Lightning qui affiche des durées relatives avec time-elements, un web component open source, rendu nativement grâce à lwc:external (GA en Winter '27). | non |
 | `retail-media-campaign-performance/` | Pilote les campagnes retail media d'une enseigne, puis l'espace d'un chargé de compte annonceur. | oui |
 | `rev-quote-approval/` | Montre les devis à valider et la remise accordée, puis l'espace d'un devis avec son PDF et la signature du client. | oui |
 | `sales-territory-forecast/` | Montre la prévision des ventes par territoire avec un tableau modifiable, puis la revue d'une affaire avec un curseur de probabilité. | oui |
