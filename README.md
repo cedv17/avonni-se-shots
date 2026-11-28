@@ -15,10 +15,14 @@ Captures de vraies orgs Salesforce de démonstration ; toutes les données sont 
 | `energy-grid-asset-maintenance/` | Montre l'état des actifs d'un réseau électrique sur une carte, puis le poste de maintenance d'un actif. | oui |
 | `fins-commercial-lending/` | Suit le pipeline de crédits d'une banque commerciale, puis l'espace d'une demande avec score et pièces manquantes. | oui |
 | `fins-insurance-claims/` | Montre les sinistres en cours sur une carte, puis l'espace d'un sinistre. | oui |
+| `fins-insurance-fnol-intake/` | Déclare un sinistre habitation depuis la fiche de la police, en trois étapes guidées, et crée le dossier de sinistre rattaché à la police. | oui |
+| `fins-loan-application/` | Ouvre une demande de prêt professionnel depuis la fiche de l'emprunteur, en trois étapes guidées, et crée la demande rattachée à l'emprunteur. | oui |
 | `fs-wealth-client360/` | Montre le portefeuille d'un conseiller en banque privée, puis la vue 360 d'un client. | oui |
 | `fsl-crew-portal-dispatch-board/` | Répartit les interventions terrain entre les équipes, puis l'espace d'une intervention. | oui |
+| `fsl-work-order-closeout/` | Clôture une intervention de maintenance depuis la fiche de l'ordre : étapes faites, pièces utilisées, résultat et notes, en deux écrans. | oui |
 | `hitech-saas-customer-success/` | Suit les renouvellements d'un éditeur SaaS, puis le poste d'un compte avec ses signaux d'usage. | oui |
 | `hls-care-coordination/` | Montre les écarts de soins d'un réseau de cliniques, puis l'espace d'un patient avec son équipe de soins. | oui |
+| `hls-patient-appointment-booking/` | Réserve un rendez-vous patient depuis sa fiche : type de soin, créneau de la semaine prochaine, résumé, en trois écrans. | oui |
 | `hosp-hotel-operations/` | Montre les chiffres de l'hôtel ce soir et l'état des chambres, puis l'espace d'arrivée d'un client. | oui |
 | `logistics-shipment-control-tower/` | Montre les envois en cours sur une carte, puis le poste d'un envoi en retard. | oui |
 | `loyalty-member-360/` | Montre un programme de fidélité par niveau et récompense, puis la vue 360 d'un membre. | oui |
@@ -29,10 +33,12 @@ Captures de vraies orgs Salesforce de démonstration ; toutes les données sont 
 | `npo-fundraising-donors/` | Suit les campagnes de dons d'une association, puis l'espace d'un donateur. | oui |
 | `ps-citizen-casework-map/` | Montre les demandes des habitants sur une carte, puis l'espace de traitement d'une demande. | oui |
 | `ps-grants-management/` | Suit les candidatures d'un programme de subventions par étape, puis la revue d'une candidature avec un flow de demande de pièces. | oui |
+| `ps-permit-application/` | Dépose une demande de permis de construire depuis la fiche d'une parcelle, en trois étapes guidées, et l'ajoute à la parcelle. | oui |
 | `psa-project-staffing/` | Montre la charge des consultants et le staffing des projets, puis l'espace d'un projet. | oui |
 | `re-property-management/` | Suit l'occupation, les loyers et les baux d'un parc immobilier, puis l'espace d'un logement avec sa visite virtuelle. | oui |
 | `release-winter27-lwc-external/` | Une page Lightning qui affiche des durées relatives avec time-elements, un web component open source, rendu nativement grâce à lwc:external (GA en Winter '27). | non |
 | `retail-media-campaign-performance/` | Pilote les campagnes retail media d'une enseigne, puis l'espace d'un chargé de compte annonceur. | oui |
+| `retail-returns-rma/` | Ouvre un retour produit depuis la fiche de la commande : articles, motif, état, remboursement, échange ou avoir, puis l'ajoute à la commande. | oui |
 | `rev-quote-approval/` | Montre les devis à valider et la remise accordée, puis l'espace d'un devis avec son PDF et la signature du client. | oui |
 | `sales-territory-forecast/` | Montre la prévision des ventes par territoire avec un tableau modifiable, puis la revue d'une affaire avec un curseur de probabilité. | oui |
 | `svc-contact-center-agent-workspace/` | Montre la file d'un centre de contact, puis le poste de l'agent avec le chat en direct et la fiche client. | oui |
